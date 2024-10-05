@@ -21,7 +21,6 @@ public class Remark {
      */
     public Remark(String remark) {
         requireNonNull(remark);
-        checkArgument(isValidremark(remark), MESSAGE_CONSTRAINTS);
         value = remark;
     }
 
