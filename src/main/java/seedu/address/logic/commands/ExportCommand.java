@@ -71,7 +71,7 @@ public class ExportCommand extends Command {
 
     /**
      * Parses a single tag from its JSON representation to its CSV representation.
-     * e.g. {\n \"friends\" : null\n} -> friends
+     * e.g. {\n \"friends\" : null\n} -> friends : null
      * @param tagString
      * @return a single parsed tag
      */
