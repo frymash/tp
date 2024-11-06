@@ -52,6 +52,7 @@
         "common-classes": "Common classes",
         "implementation": "Implementation",
         "filter-feature": "Filter feature",
+        "tagging-duplicate-phone-numbers": "Tagging Duplicate Phone Numbers",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
@@ -62,6 +63,12 @@
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-person": "Deleting a person",
+        "clearing-all-entries": "Clearing all entries",
+        "adding-a-person-including-a-duplicate-phone-case": "Adding a person (including a duplicate phone case)",
+        "filtering-contacts": "Filtering contacts",
+        "advanced-filtering-of-contacts-advfilter": "Advanced Filtering of contacts (advfilter)",
+        "sorting-contacts": "Sorting contacts",
+        "exporting-contacts": "Exporting contacts",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
